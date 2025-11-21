@@ -1,1 +1,2 @@
 # gitkodutoo
+- today is friday!!!!!
