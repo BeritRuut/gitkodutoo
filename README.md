@@ -3,5 +3,7 @@
 - today is saturday 
 - today is sunday
 - today is monday
+- today is tuesday
+
 
 
