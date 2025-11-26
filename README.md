@@ -4,6 +4,7 @@
 - today is sunday
 - today is monday
 - today is tuesday
+- today is wednesday
 
 
 
